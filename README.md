@@ -138,11 +138,3 @@ project/
 
 ---
 
-
----
-
-### How to Use
-1. Replace `<repository-url>` with your repository's URL in the **Installation** section.
-2. Push this `README.md` file to your GitHub repository.
-
-Let me know if you need further adjustments or help!
